@@ -6,7 +6,7 @@ const errorElement = document.getElementById('error')
 form.addEventListener('submit' , (e) =>{
     let messages = []
     
-    if(password.value === "12345678" && name.value === "vedprakash@gmail.com"){
+    if(password.value === "12345678" && name.value === "vedprakashp615@gmail.com"){
       messages.push("sucessfull")
       window.location.href = "details.html"
     }
